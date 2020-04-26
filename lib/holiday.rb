@@ -14,7 +14,6 @@ holiday_supplies = {
   }
 }
 
-# Write your code here.
 
 def second_supply_for_fourth_of_july(supplies_hash)
   supplies_hash[:summer][:fourth_of_july][1]
